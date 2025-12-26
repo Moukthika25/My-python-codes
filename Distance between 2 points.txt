@@ -1,0 +1,5 @@
+x1 = int(input("Enter point"))
+x2 = int(input("Enter a point"))
+y1 = int(input("Enter a point"))
+y2 = int(input("Enter a point"))
+print(((x2 - x1)**2+(y2-y1)**2)**0.5)
