@@ -1,0 +1,5 @@
+F = float(input("Enter temp: "))
+print("Celsius =", (5/9)*(F-32))
+
+C = float(input("Enter temp: "))
+print("Fahrenheit =", (C*9/5)+32)
