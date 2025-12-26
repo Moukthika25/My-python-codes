@@ -1,0 +1,2 @@
+num = int(input("Enter a number: "))
+print("One's place", n%10)
