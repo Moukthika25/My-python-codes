@@ -1,0 +1,3 @@
+breadth = int(input("Enter breadth: "))
+height = int(input("Enter height"))
+print((1/2)*breadth*height)
