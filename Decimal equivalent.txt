@@ -1,0 +1,5 @@
+num = int(input("Enter a num: "))
+hex(num)
+oct(num)
+bin(num)
+(num)**0.5
