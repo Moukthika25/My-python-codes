@@ -1,0 +1,5 @@
+a = int(input("Enter a number: "))
+tens = a//10
+ones = a%10
+swap = (ones*10+tens)
+print(swap)
