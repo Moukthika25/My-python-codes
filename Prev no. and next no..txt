@@ -1,0 +1,3 @@
+n = int(input("Enter the number: "))
+print("The next number for n:", n, "is", n+1+".")
+print("The previous number for n:", n, "is", n-1+".")
