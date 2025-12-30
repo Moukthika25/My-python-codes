@@ -1,0 +1,4 @@
+a = int(input("Enter a number: "))
+x = a//100
+y = a%100
+print(x * 100 + y)
